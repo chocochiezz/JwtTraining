@@ -131,7 +131,7 @@
         "/api/products/{id}": {
             "get": {
                 "tags": [
-                    "Product Sendiri"
+                    "Product"
                 ],
                 "summary": "Get product by id",
                 "description": "Get product by id",
@@ -167,10 +167,6 @@
         {
             "name": "Product",
             "description": "Product"
-        },
-        {
-            "name": "Product Sendiri",
-            "description": "Product Sendiri"
         }
     ]
 }
